@@ -1,10 +1,10 @@
 const validModels = [
-  "qwen3-235b-a22b",
-  "qwen3-coder",
+  "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8",
   "deepseek-coder",
   "llama-3.1-405b-instruct",
   "gemma-3-27b-it",
-  "deepseek-r1"
+  "deepseek-ai/DeepSeek-R1"
 ];
 
 export default {
